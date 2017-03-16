@@ -1,4 +1,4 @@
 title = "My Blog"
 languageCode = "en-us"
 baseurl = "http://replace-this-with-your-hugo-site.com/"
-publishDir: "docs"
+publishDir= "docs"
